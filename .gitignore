@@ -1,0 +1,27 @@
+# Dataset files
+creditcard.csv
+**/data/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Notebook backups
+*_backup.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Windows
+Thumbs.db
+
+Markdown handook for Jupyter.pdf
